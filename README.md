@@ -1,4 +1,4 @@
-[![bintray](https://img.shields.io/bintray/v/zyl/maven/android-volley-utils.svg)](https://bintray.com/zyl/maven/android-volley-utils/_latestVersion)
+[![bintray](https://api.bintray.com/packages/zyl/maven/ponto-sample/images/download.svg)](https://bintray.com/zyl/maven/ponto-sample/_latestVersion)
 # ponto-sample
 Android中的WebView混合开发，主要用于js与java之间的互相调用，方便js的编码习惯，参考[Wikia/ponto](https://github.com/Wikia/ponto)，但是这个已经停止更新了，主要修改了js调用java，能够有JSONOjbect对象返回给js。
 
